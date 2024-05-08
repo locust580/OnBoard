@@ -2,7 +2,7 @@
 name: "FIRST LAST"
 slack_handle: "@SLACK HANDLE"
 github_handle: "@GITHUB HANDLE"
-tutorial: # [https://jams.hackclub.com/jam/hacker-card]
+tutorial: # test[https://jams.hackclub.com/jam/hacker-card]test
 ---
 
 # YOUR PROJECT NAME
